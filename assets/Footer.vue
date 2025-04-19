@@ -8,8 +8,6 @@
     </div>
 
     <div class="stats">
-      
-    </div>
 
     <div class="project-links">
     <div style="margin:10px 0;">© 2025 ZOUYU. All rights reserved.</div>
