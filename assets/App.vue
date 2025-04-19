@@ -596,8 +596,8 @@ export default {
           window.history.pushState(null, "", url.toString());
         }
         document.title = this.cwd.replace(/.*\/(?!$)|\//g, "") === "/" 
-            ? "分享文件"
-            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - 分享文件`;
+            ? "文件"
+            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - 文件`;
       },
       immediate: true,
     },
