@@ -16,7 +16,7 @@
     </div>
 
     <div class="stats">
-      访问次数：<span id="vercount_value_site_pv">😯</span>次 | 访客人数：<span id="vercount_value_site_uv">😯</span>人
+      
     </div>
 
     <div class="project-links">
@@ -40,10 +40,7 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.liushen.fun/",
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/willow-god",
-      emailUrl: "mailto:01@liushen.fun"
+      emailUrl: "mailto:imzoyu@gmail.com"
     };
   }
 };
